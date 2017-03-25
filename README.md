@@ -10,7 +10,7 @@ Herunterladen, in Hauptpfad platzieren und öffnen
 
 * [W3Schools](https://www.w3schools.com/w3css/) - W3.CSS Framework
 * HTML, CSS
-* [Pexels](https://www.pexels.com) - Lizensfreie Bilder aus Pexels.com
+* [Pexels](https://www.pexels.com) - Lizenzfreie Bilder aus Pexels.com
 * JS für Showcase Fade-In Effekt
 
 <p>links Desktop, rechts mobile Ansicht</p>
