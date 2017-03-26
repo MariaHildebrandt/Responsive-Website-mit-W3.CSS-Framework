@@ -15,6 +15,6 @@ Herunterladen, in Hauptpfad platzieren und öffnen
 
 <p>links Desktop, rechts mobile Ansicht</p>
 <p align="top">
-  <img src="https://s19.postimg.org/nz7x2xzqb/index.png" width="500"/>
+  <img src="[![index.png](https://s19.postimg.org/nz7x2xzqb/index.png)](https://postimg.org/image/wu8rdgoin/)"/>
   <img src="https://s19.postimg.org/bymh27sbn/mobile.png" width="110"/>
 </p>
