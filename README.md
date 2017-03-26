@@ -13,8 +13,9 @@ Herunterladen, in Hauptpfad platzieren und öffnen
 * [Pexels](https://www.pexels.com) - Lizenzfreie Bilder aus Pexels.com
 * JS für Showcase Fade-In Effekt
 
-<p>links Desktop, rechts mobile Ansicht</p>
-<p align="top">
-  <img src="[![index.png](https://s19.postimg.org/nz7x2xzqb/index.png)](https://postimg.org/image/wu8rdgoin/)"/>
+links [Desktop](https://postimg.org/image/wu8rdgoin/), rechts [mobile](https://postimg.org/image/naz2k010f/) Ansicht
+
+<p align="left">
+  <img src="https://s19.postimg.org/nz7x2xzqb/index.png"/  width="490">
   <img src="https://s19.postimg.org/bymh27sbn/mobile.png" width="110"/>
 </p>
